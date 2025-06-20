@@ -1,0 +1,36 @@
+/sistema-internado/
+│
+├── /config/
+│   ├── database.php
+│   └── mailer.php
+│
+├── /classes/
+│   ├── Usuario.php
+│   ├── Habitacion.php
+│   ├── AsignacionHabitacion.php
+│   ├── Asistencia.php
+│   └── Reporte.php
+│
+├── /includes/
+│   └── auth.php
+│   └── navbar.php
+│
+├── /admin/
+│   ├── asignaciones.php
+│   ├── habitaciones.php
+│   ├── usuarios.php
+│   ├── asistencias.php
+│   └── reportes.php
+│
+├── /residente/
+│   ├── asistencia.php
+│   └── reportes.php
+│
+├── /public/
+│   ├── login.php
+│   ├── registro.php
+│   ├── recuperar.php
+│   └── logout.php
+│
+├── perfil.php
+└── index.php
